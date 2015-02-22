@@ -1,4 +1,4 @@
-# How to use Dispage Enhanced Search plugin
+# How to install Dispage Enhanced Search plugin
 
 Dispage Enhanced Search has been released as a Dispage Extension and cannot be installed as a common SugarCRM package.
 
