@@ -83,7 +83,7 @@ on the footer menu of the Event Grid.
 	
 ### Tab "Options"
 
--- Login Options
+#### Login Options
 The Login options are set from this section.
 
 1. The Username and Password of the Dispage portal can be entered from this
@@ -104,7 +104,7 @@ automatic check for updates at login.
 Administrator itself) specified in the "Apply Non-Admin rules to the Admin
 Users" selection field.
 
--- Connection Options
+#### Connection Options
 This section is available to customize the following parameters used for the
 Dispage connection:
 
@@ -120,7 +120,7 @@ CAUTION: base64 encoded string size is increased by 33% on average.
 5. (NEW in 1.0.11) Proxy Settings: settings to connect to dipage.com through a
 proxy server
 
--- Themes
+#### Themes
 Themes for the Dispage widgets can be selected from this section.
 
 If switched to "Auto", Extension Manager automatically switches to the theme
