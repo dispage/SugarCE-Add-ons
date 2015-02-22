@@ -1,0 +1,147 @@
+TERMS AND CONDITIONS.
+
+
+BY CLICKING THE "I ACCEPT" BOX, BY INSTALLING OR USING THE DISPAGE 
+EXTENSION MANAGER SOFTWARE ("SOFTWARE"), THE USER EXPRESSLY DECLARES 
+TO HAVE READ AND ACCEPTED ALL THE FOLLOWING TERMS AND CONDITIONS.
+
+
+
+1.0 License. The DISPAGE EXTENSION MANAGER SOFTWARE has been created by:
+
+Dispage HK Limited 
+3/F, Unit A, EIB Centre
+No. 40-44 Bonham Strand
+Sheung Wan
+HONG KONG
+
+(Hereby referred to as "DISPAGE").
+
+Copyright (c)  2010-2015 DISPAGE.
+
+The SOFTWARE is released by DISPAGE under the GNU GENERAL PUBLIC LICENSE 
+version 3 ("GPL3"), whose content is integral part of the SUGARCRM(TM) 
+COMMUNITY EDITION project and is located at the path "LICENSE.txt". If the 
+file is not present, see http://www.gnu.org/licenses or write to the Free 
+Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-
+1301 USA.
+
+The interactive user interfaces in modified source and object code versions 
+of this program must display Appropriate Legal Notices, as required under 
+Section 5 of the GNU General Public License version 3.
+
+In accordance with Section 7(b) of the GNU General Public License version 3, 
+these Appropriate Legal Notices must retain the display of the "Powered by 
+Dispage" logo. If the display of the logo is not reasonably feasible for 
+technical reasons, the Appropriate Legal Notices must display the words 
+"Powered by Dispage".
+
+All the terms expressed above APPLY TO the followings (with the exceptions 
+detailed at the point 1.1):
+
+1.0.1 All the files that are copied into the SUGARCRM(TM) installation 
+directory ("SUGARCRM DIRECTORY") or its sub-directories during the process 
+of installation ("INSTALLATION PROCESS") of the SOFTWARE. The INSTALLATION 
+PROCESS includes both the installation of the INSTALLATION PACKAGE and the 
+"Extension Manager" package that is automatically downloaded and installed 
+later.
+
+1.0.2 All the parts of code that are added to existing SUGARCRM(TM) files 
+during the INSTALLATION PROCESS.
+
+1.0.3 All the files archived in the "Extension Manager Installer" zipped 
+package ("INSTALLATION PACKAGE").
+
+
+
+1.1 Exceptions. The terms expressed in the point 1.0 DO NOT APPLY TO
+the files and directories listed below. Hereby, the file/directory paths are
+to be intended as relative paths referred to the SUGARCRM DIRECTORY path.
+
+
+1.1.1 JQuery.
+
+File:
+'custom/include/jquery/jquery.min.js'.
+
+Copyright (c) 2009 John Resig
+Dual licensed under the MIT and GPL licenses. 
+http://docs.jquery.com/License
+
+
+1.1.2 JQuery-ui.
+
+Files/Directories: 
+'custom/include/EnhancedManager/js/jquery-ui.custom.min.js',
+'custom/include/EnhancedManager/css/jquery-ui.custom.css',
+'custom/include/EnhancedManager/css/images/',
+'custom/include/EnhancedManager/css/ui.tabs.css'.
+
+Copyright (c) 2009 AUTHORS.txt (http://jqueryui.com/about)
+Dual licensed under the MIT (MIT-LICENSE.txt)
+and GPL (GPL-LICENSE.txt) licenses.
+http://docs.jquery.com/UI.
+
+Files 'AUTHORS.txt', 'MIT-LICENSE.txt' and 'GPL-LICENSE.txt' are located in 
+the directory 'custom/include/EnhancedManager/js/jquery-ui.doc/'.
+
+
+1.1.3 Boxy.
+
+All the files in the directory and sub-directories:
+'custom/include/jquery/boxy/'.
+
+(c) 2008 Jason Frame
+Licensed under the MIT License (LICENSE-BOXY)
+
+LICENSE-BOXY text can be found at the following path:
+'custom/include/jquery/boxy/LICENSE'.
+
+
+1.1.4 JqGrid.
+
+Files: 
+'custom/include/EnhancedManager/js/jquery.jqGrid.min.js',
+'custom/include/EnhancedManager/css/ui.jqgrid.css'.
+
+Copyright (c) 2008, Tony Tomov, tony@trirand.com 
+Dual licensed under the MIT and GPL licenses 
+http://www.opensource.org/licenses/mit-license.php 
+http://www.gnu.org/licenses/gpl.html 
+
+
+
+
+2.0 NO WARRANTY.
+
+THE SOFTWARE IS BEING DELIVERED TO YOU "AS IS" AND DISPAGE MAKES NO 
+WARRANTY AS TO ITS USE OR PERFORMANCE. DISPAGE DOES NOT AND CANNOT 
+WARRANT THE PERFORMANCE OR RESULTS YOU MAY OBTAIN BY USING THE 
+SOFTWARE. DISPAGE MAKES NO WARRANTIES, CONDITIONS, REPRESENTATIONS, OR 
+TERMS (EXPRESS OR IMPLIED WHETHER BY STATUTE, COMMON LAW, CUSTOM, 
+USAGE OR OTHERWISE) AS TO ANY MATTER INCLUDING WITHOUT LIMITATION NON-
+INFRINGEMENT OF THIRD PARTY RIGHTS, MERCHANTABILITY, INTEGRATION, 
+SATISFACTORY QUALITY, OR FITNESS FOR ANY PARTICULAR PURPOSE.
+
+
+
+
+3.0 LIMITATION OF LIABILITY
+
+3.1 FORCE MAJUERE. 
+
+NEITHER PARTY SHALL BE IN BREACH OF THIS AGREEMENT DUE TO FAILURE OF 
+PERFORMANCE THAT ARISES OUT OF CAUSES BEYOND ITS REASONABLE CONTROL.
+
+3.2 DISCLAIMER OF CONSEQUENTIAL DAMAGES. 
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT WILL 
+DISPAGE BE LIABLE FOR ANY INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL 
+OR EXEMPLARY DAMAGES ARISING OUT OF OR IN ANY WAY RELATING TO THIS 
+AGREEMENT OR THE USE OF OR INABILITY TO USE THE SOFTWARE OR 
+DOCUMENTATION INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF 
+GOODWILL, WORK STOPPAGE, LOST PROFITS, LOSS OF DATA, COMPUTER FAILURE 
+OR ANY AND ALL OTHER COMMERCIAL DAMAGES OR LOSSES EVEN IF ADVISED OF 
+THE POSSIBILITY THEREOF AND REGARDLESS OF THE LEGAL OR EQUITABLE 
+THEORY (CONTRACT, TORT (INCLUDING NEGLIGENCE) OR OTHERWISE) UPON WHICH 
+THE CLAIM IS BASED.

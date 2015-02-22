@@ -1,0 +1,51 @@
+PRIVACY INFORMATIVE REPORT
+
+DISPAGE wishes to inform you that the Personal Data (Privacy) Ordinance,
+Chapter 486 of the laws of the Hong Kong SAR, disciplines the protection of 
+people and other subjects as regards the personal data processing.
+
+According to the above-stated legislative Decree, DISPAGE thus gives you the 
+following information: Data furnished by the User at the moment of the 
+subscription to the DISPAGE website and to its services will be registered 
+on DISPAGE electronic databases which will be their owner for the 
+processing. This informative report concerns personal data sent by the User 
+at the moment of the registration, as well as those obtained by visits and 
+surfing in DISPAGE website or given by the User to activate the services 
+offered by the Portal. In addition, this report applies to the following 
+data from the SugarCRM(TM) application that DISPAGE needs for its correct 
+working:
+
+a) SugarCRM(TM) Version, Edition (Flavor) and Build.
+
+b) The Unique SugarCRM installation key.
+
+c) The DB ID of the User logging in SugarCRM. It is an anonymous ID String 
+with the format of 'xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx' (i.e. "d0b9e610-
+8e5f-e9b1-191d-4aab6533b225").
+
+d) A Boolean info on whether the SugarCRM User has the 
+Administrator privileges or not.
+
+e) The language chosen by the User as he/she logs in SugarCRM.
+
+f) The List of the IDs (formatted as described at the point c) of the 
+Extensions installed through Dispage Extension Manager.
+
+The data above from the point a) to f) are transmitted automatically to 
+DISPAGE when a SugarCRM User connects to the Dispage Resource Center ("DRC") 
+from the SugarCRM application.
+
+All the above-mentioned data are compulsory, as it is visible from the 
+subscription procedure and from the offered services activation request 
+procedure. Personal data communication and the pertinent processing for the 
+above-stated aims are strictly useful for the indicated services execution. 
+Every refusal from the User to give these data or every refusal to consent 
+to their processing will involve the impossibility to use DISPAGE's 
+services. 
+
+DISPAGE subjects Users' personal data to all the processing operations 
+individuated by the Personal Data Ordinance - that is: collection, 
+registration, organization, conservation, elaboration, change, selection, 
+extraction, comparison, use, interconnection and any other operation useful 
+to supply the asked services - in automatized and computerized ways. This 
+data can also be organized in data banks and files.

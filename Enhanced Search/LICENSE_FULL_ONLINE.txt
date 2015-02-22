@@ -1,0 +1,388 @@
+ENHANCED SEARCH END USER LICENSE AGREEMENT.
+
+
+CLICKING THE "I ACCEPT" BOX, INSTALLING OR USING THE "ENHANCED SEARCH" SOFTWARE
+THAT YOU HAVE SELECTED TO PURCHASE IN THE ORDERING PROCESS (THE "SOFTWARE"), YOU
+ARE AGREEING ON BEHALF OF THE ENTITY LICENSING THE SOFTWARE ("COMPANY") THAT
+COMPANY WILL BE BOUND BY AND IS BECOMING A PARTY TO THIS END USER LICENSE
+AGREEMENT ("AGREEMENT") AND THAT YOU HAVE THE AUTHORITY TO BIND COMPANY. IF
+COMPANY DOES NOT AGREE TO ALL OF THE TERMS OF THIS AGREEMENT, DO NOT SELECT THE
+"I ACCEPT" BOX AND DO NOT INSTALL THE SOFTWARE. COMPANY HAS NOT BECOME A
+LICENSEE OF, AND IS NOT AUTHORIZED TO USE THE SOFTWARE UNLESS AND UNTIL IT HAS
+AGREED TO BE BOUND BY THESE LICENSE TERMS. 
+
+
+1.0 Preamble
+
+The Terms of this Agreement apply to DEMO version as well as to FULL version
+with the exceptions of the Sections 2.1, 2.6, 3 and 7, in which the distinctions
+between DEMO and FULL are expressly indicated. Hereby, "FULL" means the FULL
+version of the Software and "DEMO" means the DEMO version of the Software. 
+DEMO VERSION, ALTHOUGH HAS THE SAME FUNCTIONALITIES AS FULL, IS FOR
+DEMONSTRATION PURPOSES ONLY.
+
+
+1.1 Prerequisites
+
+The Software must be installed in a SugarCRM (TM) working installation
+("SugarCRM") whose version and edition are supported by the current release of
+the Software.
+
+A list of supported versions and editions is available from the Enhanced Search
+main page at http://www.dispage.com website ("Website") or can be obtained via
+email request to support@dispage.com. All services provided by the Website
+("Website Services") and the email support service at support@dispage.com
+("Email Support") are subject to the limitations indicated in Section 5.3 .
+
+The Software must be installed in SugarCRM through a free installation tool
+("Extension Manager") provided by dispage, whose license and privacy informative
+report ("Privacy Report") are available from the Documentation area of the
+Website or upon request made to Email Support.
+
+
+1.2 Subject of the License
+
+Enhanced Search is a Software designed to improve SugarCRM (TM) Search
+functionalities.
+
+Enhanced Search has been designed and developed by
+
+Dispage HK Limited 
+3/F, Unit A, EIB Centre
+No. 40-44 Bonham Strand
+Sheung Wan
+HONG KONG 
+
+(Hereby referred to as "Dispage").
+
+Copyright (c) 2010-2015 Dispage.
+
+"Dispage Intellectual Property" shall mean any of Dispage's patents and
+applications therefore, copyrights, trademarks, service marks, trade names,
+domain name rights, and other trade secret rights, and all other intellectual
+property rights. 
+
+The Software is identified by the following resources ("Resources"):
+a) All the files that are copied into the SugarCRM directory ("SugarCRM
+Directory") or its sub-directories during the process of installation
+("Installation Process") of the Software.
+b) All the parts of code that are added to existing SugarCRM files during the
+Installation Process.
+
+Hereby, file and directory paths are to be intended as paths relative to the
+SugarCRM Directory path. 
+Resources may belong to three categories:
+(i) "EditArea Files": files, directories and sub-directories under the path
+'custom/include/edit_area/' 
+(ii) "Encrypted Files": files under the path
+'custom/include/EnhancedSearchAdditional/v3o/'
+(iii) "Plain Code": all Resources not belonging to the categories in points i)
+and ii)
+
+The Company Rights, Grants and Restrictions detailed in Sections 2.1, 2.2, 2.3
+and 2.4 and the Proprietary Rights in Section 2.5 apply to the Resources of
+category (i), (ii) and (iii) present in the SugarCRM Directory after the
+Software installation. Additionally, they apply to all the Software files that
+may be stored into paths different from the SugarCRM Directory (including, as
+non-exhaustive examples, the temporary directory where the files are stored
+after the download and the 'cache/upload/upgrades/temp' directory) during the
+download, the Installation Process or the subsequent operation of SugarCRM
+application. In the case of Software files stored in different paths, the path
+locations in the points (i) and (ii) above are to be intended as paths relative
+to the directory where the files are stored; in the case that Software files are
+compressed in an archive file, the path locations refer to the relative path of
+the files compressed in the archive file.
+
+The Encrypted Files contain encrypted PHP code that is essential to the Software
+key features. Encrypted Files are subject to the additional restrictions
+indicated in Section 2.3 and need decryption keys ("Decryption Keys") to be
+correctly interpreted and to activate all the Software functionalities.
+
+Decryption Keys are automatically and silently downloaded by Extension Manager
+from the Website ("Key Refresh") each time a SugarCRM User ("SugarCRM User") log
+in SugarCRM. If for any reason Key Refresh process fails, Encrypted Files are
+correctly decrypted still for the subsequent five (5) days since Decryption Keys
+are automatically stored in dispage cache directory.
+
+IMPORTANT: Key Refresh is one of the above-mentioned Website Services and is
+subject to the limitations indicated in Section 5.3 .
+
+
+2.0 License Grants, Restrictions and Ownership
+
+2.1 Grant to Company.  
+(a) A "Production Installation" means a unique SugarCRM installation that is
+designated by the Company as the production environment during the Software
+installation. A "Development Installation" means a SugarCRM installation that is
+designated by the Company as a development, training or testing environment
+during the Software installation. SOFTWARE IS FULLY FUNCTIONAL FOR UP TO THREE
+SUGARCRM USERS IN A DEVELOPMENT INSTALLATION.
+(b) THE TERMS IN THIS SECTION (2.1b) APPLY ONLY TO FULL VERSION LICENSEES. For
+the term of Company's License Period (defined below) and subject to Company's
+payment of the License Fee (defined below), Dispage grants Company: i)
+non-exclusive, non-transferable, nonsublicensable right to use and modify the
+Software (with the exceptions of Encrypted Files as reported in Section 2.3
+below) for Company's own internal use of the Software in one (1) Production
+Installation and up to three (3) Development Installations; ii) access to
+Website Services with the conditions and limitations in Sections 3, 5.3 and 7.0a
+. Production Installations must have a number of SugarCRM Users limited to the
+number of SugarCRM Users for which Company has paid the applicable fee.
+(c) THE TERMS IN THIS SECTION (2.1c) APPLY ONLY TO DEMO VERSION LICENSEES.
+Dispage may, at its sole discretion, grant Company a non-exclusive,
+non-transferable, nonsublicensable Demo License. For the term of Demo Period
+(defined below), Dispage grants Company: i) non-exclusive, non-transferable,
+nonsublicensable right to use and modify the Software (with the exceptions of
+Encrypted Files as reported in Section 2.3 below) for Company's own internal use
+of the Software in one (1) Production Installation and up to three (3)
+Development Installations; ii) access to Website Services with the conditions
+and limitations in Sections 5.3 and 7.0b . 
+
+2.2 Restrictions.  Company shall not, directly or indirectly: (i) sublicense,
+resell, rent, lease, distribute, market, commercialize or otherwise transfer
+rights or usage to: (a) the Software, (b) any modified version or derivative
+work of the Software created by the Company or for the Company, or (c) any
+software, either modified or not for any purpose including timesharing or
+service bureau purposes; (ii) remove or alter any copyright, trademark or
+proprietary notice in the Software; (iii) transfer, use or export the Software
+in violation of any laws or regulations of any government or governmental
+agency; (iv) modify any version of the Software's source code ("Original Code")
+to develop a separately maintained source code program (the "Forked Software")
+so that such modifications are not automatically integrated with the Original
+Code or so that the Forked Software has features not present in the Original
+Code.  The Software includes modules that report the number of authorized
+SugarCRM Users and permits Dispage the ability to monitor certain usage of the
+Software ("Critical Control Software") which is fundamental to the business of
+Dispage (Exhibit A).  Notwithstanding the terms of this Agreement, neither the
+Company nor the SugarCRM Users may modify any portion of the Critical Control
+Software.  The violation of this prohibition shall be deemed a material breach
+of this Agreement and Dispage may immediately terminate this Agreement.
+
+2.3 Additional Restrictions for Encrypted Files.  Encrypted Files ARE PROTECTED
+BY COPYRIGHT LAW. UNAUTHORIZED COPY, REVERSE ENGINEERING, DECRYPTION OR ANY
+ALTERATION OF ENCRYPTED FILES, OR ANY PORTION OF IT, MAY RESULT IN SEVERE CIVIL
+PENALTIES AND WILL BE PROSECUTED TO THE MAXIMUM EXTENT POSSIBLE UNDER THE LAW.
+
+2.4 Company Rights on third-party resources.  EditArea Files are released and
+can be modified under the following copyright and license:
+
+EditArea 
+Copyright 2008-2010 Christophe Dolivet
+Released under LGPL, Apache and BSD licenses
+
+2.5 Proprietary Rights.  Dispage and its licensors shall own all right, title,
+and interest to the Software (except for EditArea Files), Dispage Intellectual
+Property and all technology, information, code or software provided to Company,
+including all portions, copies or modifications thereof.  Except as expressly
+provided herein, no license of any kind are granted hereunder, whether by
+implication, estoppel, or otherwise.
+
+2.6 Additional Restrictions FOR DEMO VERSION LICENSEES.  COMPANY CAN SUBSCRIBE
+THIS DEMO AGREEMENT ONLY ONCE. Upon lapse of Demo Period, Key Refresh will be
+disabled: if Company wish to use Software thereafter it will need to purchase a
+Full License, or else it must uninstall the DEMO from all SugarCRM
+Installations. Unless otherwise stated, the Demo License Terms are applicable
+only if Company has not purchased or otherwise rightfully obtained a FULL
+version of Software. Any subscription of a FULL Agreement immediately terminates
+any DEMO Agreement previously entered into.
+
+
+3.0 Fees and Payment (THIS SECTION APPLIES ONLY TO FULL VERSION LICENSEES)
+
+3.1 License Fee.  Company shall pay to Dispage an amount specified on Website.
+Company shall pay the applicable License Fee for the initial term of the License
+Period on the effective date of purchase ("Purchase Date"). Company shall make
+future fee payments due under the terms of this Agreement for renewal terms at
+the expiry date of the license ("Expiry Date"). The Expiry Date is calculated by
+adding the period of the license purchased to the Purchase Date and is
+communicated to Company at the completion of purchase process. All fees paid to
+Dispage are non-refundable. Dispage reserves the right to modify its renewal
+fees upon thirty (30) day prior written notice, which may be provided by e-mail.
+Company agrees to provide Dispage with complete and accurate billing and contact
+information. Dispage may terminate this Agreement and/or Company's access to the
+Website Services if the billing or contact information is false, fraudulent or
+invalid. Company will also pay all taxes, including sales, use, personal
+property, value-added, excise, customs fees, import duties, stamp duties and any
+other similar taxes and duties, including penalties and interest, imposed by any
+Hong Kong government entity or any non-Hong Kong government entity on the 
+transactions contemplated by this Agreement, excluding taxes based upon 
+Dispage's net income.
+
+3.2 Non-Payment.  Dispage may terminate this Agreement and Company's access to
+the Website Services for Company's non-payment of fees that is delinquent by
+twenty-one (21) days or more (whether under this Agreement or a separate
+agreement). Company agrees that Dispage may bill Company for unpaid fees.
+Dispage shall be entitled to reimbursement of all reasonable collection costs
+incurred as a result of unpaid balances.
+
+
+4.0 Confidentiality
+
+Company and Dispage agree to maintain the confidentiality of any proprietary
+information received by the other party during, or prior to entering into, this
+Agreement that a party should know is confidential or proprietary based on the
+circumstances surrounding the disclosure, including, without limitation,
+non-public technical and business information ("Confidential Information") for a
+period of two (2) years after the termination of this Agreement. This section
+shall not apply to any publicly available or independently developed information
+or the open source version of the Software licensed under the Basic License. The
+receiving party of any Confidential Information of the other party agrees not to
+use said Confidential Information for any purpose except as necessary to fulfill
+its obligations and exercise its rights under this Agreement. The receiving
+party shall protect the secrecy of and avoid disclosure and unauthorized use of
+the disclosing party's Confidential Information to the same degree that it takes
+to protect its own confidential information and in no event less than reasonable
+care.
+
+
+5.0	Infringement and Disclaimer of Warranty
+
+5.1	Infringement.  During any term of this Agreement, if any portion of the
+Software (except for third party software) is held by a court of competent
+jurisdiction to infringe any third party intellectual property rights and
+Company incurs a liability or expense as a result of such holding, then
+Company's sole remedy shall be, and Dispage will, at Dispage option: (i) obtain
+the right for Company to continue to use the Software consistent with this
+Agreement; (ii) modify the Software so that it is non-infringing; or (iii)
+replace the infringing component with a non-infringing component, or (iv) refund
+all of Company's money paid under this Agreement during the prior twelve (12)
+months and all of Company's rights and licenses under this Agreement shall
+automatically terminate.    
+
+5.2 No Warranty and no Additional Services implied.  TO THE MAXIMUM EXTENT
+PERMITTED BY APPLICABLE LAW, EXCEPT AS EXPRESSLY STATED IN THIS AGREEMENT, THE
+SOFTWARE AS PROVIDED BY DISPAGE AND ITS LICENSORS IS PROVIDED AND LICENSED "AS
+IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS, IMPLIED, STATUTORY OR
+OTHERWISE, INCLUDING, BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF
+MERCHANTABILITY, NON-INFRINGEMENT, SATISFACTORY QUALITY AND FITNESS FOR A
+PARTICULAR PURPOSE. DISPAGE DOES NOT AND CANNOT WARRANT THE PERFORMANCE OR
+RESULTS THAT COMPANY MAY OBTAIN BY USING THE SOFTWARE EXCEPT FOR ANY WARRANTY,
+CONDITION, REPRESENTATION OR TERMS TO THE EXTENT TO WHICH THE SAME CANNOT OR MAY
+NOT BE EXCLUDED OR LIMITED BY LAW APPLICABLE TO COMPANY IN ITS JURISDICTION.
+COMPANY AGREES THAT THERE ARE TO BE NO PROGRAMMING OR ANY OTHER SERVICES TO BE
+PROVIDED UNDER THIS AGREEMENT BY DISPAGE IN RELATION TO THE SOFTWARE BEING
+LICENSED, INCLUDING, WITHOUT LIMITATION, ANY SERVICES IN RELATION TO ANY ERRORS,
+MALFUNCTIONS OR DEFECTS WHICH MAY ARISE DURING THE TERM OF THIS AGREEMENT,
+EXCEPT WHERE THESE SERVICES ARE RENDERED THROUGH ANY FURTHER AGREEMENT BETWEEN
+THE PARTIES AND, IN THAT CASE, AT A PRICE TO BE AGREED UPON AT THE TIME THE
+FURTHER AGREEMENT MAY BE ENTERED INTO.
+
+5.3 No Warranty on the Website Services and Email Support.  DISPAGE DOES NOT
+WARRANT ANY OF THE Website Services AND THE Email Support REFERRED TO IN THIS
+AGREEMENT, INCLUDING THE Key Refresh. NO WARRANTY IS GIVEN, EXPRESSLY OR
+IMPLIEDLY, THAT THE ABOVE-MENTIONED SERVICES WILL BE ERROR-FREE, UNINTERRUPTED
+OR WILL MEET ANY PARTICULAR CRITERIA OF ACCURACY, COMPLETENESS OR RELIABILITY OF
+INFORMATION, PERFORMANCE OR QUALITY. DISPAGE AND ITS LICENSORS ARE NOT
+RESPONSIBLE FOR TRANSMISSION ERRORS IN, CORRUPTION OF, OR THE SECURITY OF
+COMPANY'S INFORMATION CARRIED OVER INTER EXCHANGE CARRIERS', LOCAL EXCHANGE
+CARRIERS', OR OTHER PROVIDERS' FACILITIES. COMPANY AGREES THAT IT WILL NOT IN
+ANY WAY HOLD DISPAGE RESPONSIBLE FOR ANY SELECTION OR RETENTION OF, OR THE ACTS
+OR OMISSIONS OF, THIRD PARTIES IN CONNECTION WITH THE SERVICE.
+
+
+6.0	Limitation of Liability
+
+6.1	Force Majeure.  EXCEPT FOR THE PAYMENT OF FEES, NEITHER PARTY SHALL BE IN
+BREACH OF THIS AGREEMENT DUE TO FAILURE OF PERFORMANCE THAT ARISES OUT OF CAUSES
+BEYOND ITS REASONABLE CONTROL.
+6.2 Disclaimer of Consequential Damages.  TO THE MAXIMUM EXTENT PERMITTED BY
+APPLICABLE LAW, IN NO EVENT WILL DISPAGE BE LIABLE FOR ANY INDIRECT, SPECIAL,
+INCIDENTAL, CONSEQUENTIAL OR EXEMPLARY DAMAGES ARISING OUT OF OR IN ANY WAY
+RELATING TO THIS AGREEMENT OR THE USE OF OR INABILITY TO USE THE SOFTWARE OR
+DOCUMENTATION INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF GOODWILL, WORK
+STOPPAGE, LOST PROFITS, LOSS OF DATA, COMPUTER FAILURE OR ANY AND ALL OTHER
+COMMERCIAL DAMAGES OR LOSSES EVEN IF ADVISED OF THE POSSIBILITY THEREOF AND
+REGARDLESS OF THE LEGAL OR EQUITABLE THEORY (CONTRACT, TORT (INCLUDING
+NEGLIGENCE) OR OTHERWISE) UPON WHICH THE CLAIM IS BASED.
+6.3 Limitation of All Damages.  IN NO EVENT SHALL DISPAGE'S OR ITS LICENSOR'S
+LIABILITY HEREUNDER FOR CLAIMS IN THE AGGREGATE, EXCEED THE AMOUNT THAT COMPANY
+PAID TO DISPAGE UNDER THIS AGREEMENT DURING THE TWELVE (12) MONTHS IMMEDIATELY
+PRECEDING THE ACT OR OMISSION GIVING RISE TO THE LIABILITY.
+6.4	Failure of Essential Purpose.  The limitations set forth in this Section
+shall apply notwithstanding any failure of essential purpose of this Agreement
+or any limited remedy hereunder.
+
+
+7.0	Term and Termination
+
+(a) THE TERMS IN THIS SECTION (7.0a) APPLY ONLY TO FULL VERSION LICENSEES. The
+initial license term shall commence on the Effective Date of this Agreement and
+shall continue until the Expiry Date defined above ("License Period"). Company
+shall remain obligated for all fees through the date of termination. Either
+party may terminate this Agreement prior to the end of a term if the other party
+materially breaches its obligations  hereunder (except in case that Company
+violates any term of sections 2.1, 2.2, 2.3, 2.5 or 3.0) and, where such breach
+is curable, such breach remains uncured for thirty days following written notice
+of the breach. Dispage may terminate this agreement and/or disable Company's
+access to Key Refresh and other Website Services immediately upon notice to
+Company if Company's non-payment of any fees owed to Dispage (whether under this
+agreement or a separate agreement) is delinquent by twenty-one (21) days or
+more, or if any of the terms of sections 2.1, 2.2, 2.3 or 2.5 has been violated
+by the Company. Company's obligation to make a payment of any outstanding,
+unpaid fees and the terms of Sections 2.2, 2.3, 2.5, 3-6 and 8 shall survive
+termination or expiration of this Agreement.
+(b) THE TERMS IN THIS SECTION (7.0b) APPLY ONLY TO DEMO VERSION LICENSEES. The
+initial license term shall commence on the Effective Date of this Agreement and
+shall continue for the subsequent thirty (30) days (the "Demo Period"). Company
+may terminate this Agreement at any time, with or without cause, and without
+notice to Dispage. DISPAGE MAY TERMINATE THIS AGREEMENT AND/OR DISABLE COMPANY'S
+ACCESS TO Key Refresh AND OTHER Website Services AT ANY TIME, WITH OR WITHOUT
+CAUSE, AND WITHOUT NOTICE TO COMPANY. Company's obligation to the terms of
+Sections 2.2, 2.3, 2.5, 4-6 and 8 shall survive termination or expiration of
+this Agreement.
+
+
+8.0 General
+
+Except as expressly provided herein, Company may not assign its rights or 
+delegate its obligations under this Agreement, without the prior written consent 
+of Dispage. This Agreement will be governed by and construed in accordance with 
+the laws of Hong Kong laws applicable therein, excluding its conflicts of law 
+provisions, and Company and Dispage agree to submit to the personal and 
+exclusive jurisdiction of the courts located in Hong Kong. The parties agree the 
+United Nations Convention on Contracts for the International Sale of Goods will 
+not apply to this Agreement. The failure of either party to require performance 
+by the other party of any provision hereof shall not affect the full right to 
+require such performance at any time thereafter; nor shall the waiver by either 
+party of a breach of any provision hereof be taken or held to be a waiver of the 
+provision itself. If any provision of this Agreement is found void and 
+unenforceable, it will be replaced to the extent possible with a provision that 
+comes closest to the meaning of the original provision. This Agreement, and the 
+documents referenced in this Agreement, constitutes the entire agreement between 
+Company and Dispage relating to its subject matter and all terms herein and 
+supersedes all prior or contemporaneous agreements or understandings. This 
+Agreement may be modified or changed only in writing by authorized 
+representatives of Company and Dispage. Notices hereunder shall be in writing 
+and addressed to Company at the address provided when purchasing this License, 
+or, in the case of Dispage, when addressed to "Dispage HK Limited" - 29 H, Tower 
+6, Tung Chung Crescent - No. 2 Mei Tung Street - Tung Chung - HONG KONG. No 
+other terms and conditions shall apply, including any terms or conditions 
+contained in any purchase order, request for quote (RFQ), bid proposal, response 
+hereto, or other operational form of Company or Company's agent which are in 
+addition to or different than the terms and conditions of this Agreement 
+contained herein. Any of Company's terms and conditions which are different from 
+or in addition to those contained herein are hereby objected to and shall be of 
+no effect unless specifically agreed to in writing by an authorized 
+representative of Dispage. Delivery of the Software or other performance by 
+Dispage with respect to the Software shall not constitute Dispage's acceptance 
+of any additional or different terms and conditions. 
+
+
+Exhibit A
+
+Integration to Privacy Report.  
+
+Critical Control Software may transmit any of the following data to Dispage when
+a SugarCRM User connects to the Dispage Resource Center ("DRC") at the SugarCRM
+login, in addition to what detailed in the Privacy Report:
+(i) Total number of SugarCRM Users.
+(ii) A list of Database IDs ("Database IDs") of the SugarCRM Users. A Database
+ID is an anonymous ID String with the format
+'xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx' (i.e.
+"d0b9e610-8e5f-e9b1-191d-4aab6533b225").
+(iii) A list of md5-encrypted usernames of the SugarCRM Users.
+(iv) Md5-encrypted username of the User logging in SugarCRM if the SugarCRM
+installation is a Production Installation; non-encrypted username of the User
+logging in case of Development Installations.
+
+THE SOFTWARE MUST NOT BE INSTALLED WITHOUT THE EXPRESS CONSENT TO THE
+TRANSMISSION OF THE DATA DETAILED IN THIS SECTION.
